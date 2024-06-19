@@ -42,10 +42,3 @@ The Yum functions similar to likes. Users can click Yum to indicate that they li
 Follow and Unfollow functions like normal social media applications.
 
 ![Userlist](https://github.com/LiMichael1/ThunderBoltz/blob/master/resources/img/userlist.png?raw=true))
-
-## CPSC 349 Spring 2020
-
-B.J. Warfield  
-Michael Li  
-Brendon Linthurst  
-Gita Nikzad  
